@@ -1,0 +1,1 @@
+This repository contains a shell script that finds the largest number in a file. However, the script has a bug: it fails if the input file contains any non-numeric values.  The solution demonstrates how to improve the script to handle such cases more robustly.
